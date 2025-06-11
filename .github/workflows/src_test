@@ -1,5 +1,5 @@
 ---
-name: vpro_CI
+name: vpro_CI_test2
 
 on: [push,workflow_dispatch]
 
